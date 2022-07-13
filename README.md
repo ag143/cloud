@@ -9,3 +9,5 @@ https://www.callicoder.com/docker-golang-image-container-example/
 - https://github.com/sathishvj/awesome-gcp-certifications
 - https://github.com/ddneves/awesome-azure-learning/blob/master/topics/certifications/az-900.md
 
+# AWS
+- https://www.youtube.com/watch?v=SOTamWNgDKc
